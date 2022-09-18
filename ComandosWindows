@@ -1,4 +1,4 @@
-# O comando abaixo apaga as pesquisas já feitas no CMD, ele não remove o cash só apaga informações que são mostradas no momento:
+# O comando abaixo apaga as pesquisas já feitas no CMD, ele não remove o cache só apaga informações que são mostradas no momento:
 > cls
 # Para verificar o histórico de nevegação basta usar no CMD o código abaixo:
 > ipconfig/displaydns
